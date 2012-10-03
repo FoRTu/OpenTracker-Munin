@@ -2,7 +2,7 @@ Munin plugin to monitoring PeerTracker
 ---------------------------------------
 _[in English]_
 
-![](https://github.com/FoRTu/PeerTracker-Munin/raw/master/screenshot.png)
+![](https://github.com/FoRTu/OpenTracker-Munin/raw/master/screenshot.png)
 
 
 This is a **plugin for [Munin][1]** with which we can monitor the bittorrent tracker **[PeerTracker][2]**.
@@ -47,7 +47,7 @@ Plugin de Munin para monitorizar PeerTracker
 --------------------------------------------
 _[en Castellano]_
 
-![](https://github.com/FoRTu/PeerTracker-Munin/raw/master/screenshot.png)
+![](https://github.com/FoRTu/OpenTracker-Munin/raw/master/screenshot.png)
 
 
 Esto es un **plugin para [Munin][1]** con el cual podremos monitorizar el tracker bittorrent **[PeerTracker][2]**.
