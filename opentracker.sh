@@ -11,7 +11,7 @@
 #
 #  The URL of OpenTracker statistics // URL de las estadisticas de OpenTracker:
 #
-TRACKER_STATS_URL="http://192.168.1.4:6969/info_stats"
+TRACKER_STATS_URL="http://my.tracker.com/info_stats"
 #
 #
 ######## End of Configuration // Fin de configuracion #########
