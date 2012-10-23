@@ -49,7 +49,7 @@ echo Torrents.info Number of Torrents tracking.
 esac
 
 
-# Write data // Escribit datos
+# Write data // Escribir datos
 
 echo "Peers.value $PEERS"
 echo "Seeders.value $SEEDERS"
