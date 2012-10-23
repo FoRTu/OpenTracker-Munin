@@ -2,7 +2,7 @@
 
 ###### INFO #######
 #
-# More info : URL DEL REPOSITORIO GIT
+# More info : https://github.com/FoRTu/OpenTracker-Munin
 #
 ##################
 
