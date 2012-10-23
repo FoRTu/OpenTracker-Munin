@@ -26,7 +26,7 @@ let LEECHERS=$PEERS-$SEEDERS
 case $1 in
    config)
 
-# Inicio  Configuracion
+# Chart settings // Configuracion del grafico
 
 
 echo raph_title Open Tracker Stats
@@ -44,17 +44,15 @@ echo Leechers.info "A computer that doesn't have the complete file".
 echo Torrents.label Torrents
 echo Torrents.info Number of Torrents tracking.
 
-# Fin Configuracion
 
         exit 0;;
 esac
 
 
-# Inicio Datos
+# Write data // Escribit datos
 
 echo "Peers.value $PEERS"
 echo "Seeders.value $SEEDERS"
 echo "Leechers.value $LEECHERS"
 echo "Torrents.value $TORRENTS"
 
-# Fin Datos
