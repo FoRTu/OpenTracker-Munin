@@ -1,5 +1,4 @@
-
-<img src="http://erdgeist.org/arts/software/opentracker/opentracker_beta3.png" width="200px" tyle="float: center"> **+** <img src="http://munin-monitoring.org/static/munin.png">
+<img src="http://erdgeist.org/arts/software/opentracker/opentracker_beta3.png" width="200px" tyle="float: center"> **+** <img src="http://munin-monitoring.org/site/munin.png">
 =
 
 Munin plugin to monitoring OpenTracker:
